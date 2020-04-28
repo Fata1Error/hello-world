@@ -1,2 +1,3 @@
 # hello-world
-misc
+misc  
+I am putting this repository together to help me learn coding and simulations
